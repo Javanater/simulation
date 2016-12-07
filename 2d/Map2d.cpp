@@ -5,7 +5,7 @@
  *      Author: Madison
  */
 
-#include "Map2d.h"
+#include "Map2d.hpp"
 #include <limits>
 
 using namespace std;

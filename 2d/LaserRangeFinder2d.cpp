@@ -4,7 +4,7 @@
 
 #include "LaserRangeFinder2d.hpp"
 #include <cmath>
-#include <Math/geometry/Ray.h>
+#include <Math/geometry/Ray.hpp>
 #include <limits>
 
 using namespace std;

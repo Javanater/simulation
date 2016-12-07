@@ -5,7 +5,7 @@
  *      Author: Madison
  */
 
-#include "Intersectable.h"
+#include "Intersectable.hpp"
 
 namespace flabs
 {

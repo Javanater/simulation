@@ -9,7 +9,7 @@
 #define SIMULATION_INTERSECTEE_H_
 
 #include <set>
-#include "Intersectable.h"
+#include "Intersectable.hpp"
 #include "IntersectionCalculator.hpp"
 
 namespace flabs

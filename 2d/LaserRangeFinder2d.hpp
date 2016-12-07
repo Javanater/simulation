@@ -5,11 +5,11 @@
 #ifndef PROJECTS_LASERRANGEFINDER2D_HPP
 #define PROJECTS_LASERRANGEFINDER2D_HPP
 
-#include "Simulation/SimulationObject.h"
-#include "Simulation/Intersectee.h"
-#include "Robot2d.h"
+#include "Simulation/SimulationObject.hpp"
+#include "Simulation/Intersectee.hpp"
+#include "Robot2d.hpp"
 #include <Math/geometry/Vector.h>
-#include <Math/geometry/LineSegment.h>
+#include <Math/geometry/LineSegment.hpp>
 
 namespace flabs
 {

@@ -5,8 +5,8 @@
 #ifndef PROJECTS_INTERSECTIONCALCULATOR_HPP
 #define PROJECTS_INTERSECTIONCALCULATOR_HPP
 
-#include <Math/geometry/Ray.h>
-#include "Intersectable.h"
+#include <Math/geometry/Ray.hpp>
+#include "Intersectable.hpp"
 #include <set>
 
 namespace flabs

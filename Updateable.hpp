@@ -8,7 +8,7 @@
 #ifndef UPDATEABLE_H_
 #define UPDATEABLE_H_
 
-#include "SimulationObject.h"
+#include "SimulationObject.hpp"
 
 namespace flabs
 {

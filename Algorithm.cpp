@@ -5,7 +5,7 @@
  *      Author: Madison
  */
 
-#include "Algorithm.h"
+#include "Algorithm.hpp"
 
 using namespace std;
 

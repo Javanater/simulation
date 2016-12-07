@@ -5,9 +5,9 @@
 #ifndef PROJECTS_WHEELS_HPP
 #define PROJECTS_WHEELS_HPP
 
-#include "Simulation/SimulationObject.h"
-#include "Simulation/Updateable.h"
-#include "Simulation/2d/Robot2d.h"
+#include "Simulation/SimulationObject.hpp"
+#include "Simulation/Updateable.hpp"
+#include "Simulation/2d/Robot2d.hpp"
 
 namespace flabs
 {

@@ -9,8 +9,8 @@
 #define SIMULATION_2D_ROBOT2D_H_
 
 #include <Math/geometry/Vector.h>
-#include "Simulation/Updateable.h"
-#include "Simulation/SimulationObject.h"
+#include "Simulation/Updateable.hpp"
+#include "Simulation/SimulationObject.hpp"
 
 namespace flabs
 {

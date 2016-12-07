@@ -10,10 +10,10 @@
 
 #include <list>
 #include <limits>
-#include <Math/geometry/LineSegment.h>
-#include <Math/geometry/Ray.h>
-#include "Simulation/SimulationObject.h"
-#include "Simulation/Intersectable.h"
+#include <Math/geometry/LineSegment.hpp>
+#include <Math/geometry/Ray.hpp>
+#include "Simulation/SimulationObject.hpp"
+#include "Simulation/Intersectable.hpp"
 
 namespace flabs
 {

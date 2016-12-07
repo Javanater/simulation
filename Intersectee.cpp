@@ -5,7 +5,7 @@
  *      Author: Madison
  */
 
-#include "Intersectee.h"
+#include "Intersectee.hpp"
 
 namespace flabs
 {

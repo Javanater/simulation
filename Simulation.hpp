@@ -11,7 +11,7 @@
 #include <mutex>
 #include <condition_variable>
 #include <thread>
-#include "Algorithm.h"
+#include "Algorithm.hpp"
 
 #define SIMULAITON_DEFAULT_ITERATION_PERIOD .03333
 

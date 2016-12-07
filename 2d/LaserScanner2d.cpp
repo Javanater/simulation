@@ -3,7 +3,7 @@
 //
 
 #include "LaserScanner2d.hpp"
-#include <Math/geometry/Ray.h>
+#include <Math/geometry/Ray.hpp>
 
 using namespace std;
 

@@ -9,10 +9,10 @@
 #define ALGORITHM_H_
 
 #include <set>
-#include "Updateable.h"
-#include "SimulationObject.h"
-#include "Intersectable.h"
-#include "Intersectee.h"
+#include "Updateable.hpp"
+#include "SimulationObject.hpp"
+#include "Intersectable.hpp"
+#include "Intersectee.hpp"
 #include "IntersectionCalculator.hpp"
 
 namespace flabs

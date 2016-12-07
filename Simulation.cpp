@@ -5,9 +5,9 @@
  *      Author: Madison
  */
 
-#include "Simulation.h"
+#include "Simulation.hpp"
 #include <chrono>
-#include <Utilities/utilities.h>
+#include <Utilities/utilities.hpp>
 
 using namespace std;
 
