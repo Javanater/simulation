@@ -2,9 +2,9 @@
 // Created by Madison on 8/25/2016.
 //
 
-#include "LaserRangeFinder2d.hpp"
+#include <simulation/2d/LaserRangeFinder2d.hpp>
 #include <cmath>
-#include <Math/geometry/Ray.hpp>
+#include <math/geometry/Ray.hpp>
 #include <limits>
 
 using namespace std;

@@ -5,7 +5,7 @@
  *      Author: Madison
  */
 
-#include "Map2d.hpp"
+#include <simulation/2d/Map2d.hpp>
 #include <limits>
 
 using namespace std;

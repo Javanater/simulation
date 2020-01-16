@@ -5,7 +5,7 @@
 #ifndef PROJECTS_INTERSECTIONCALCULATOR_HPP
 #define PROJECTS_INTERSECTIONCALCULATOR_HPP
 
-#include <Math/geometry/Ray.hpp>
+#include <math/geometry/Ray.hpp>
 #include "Intersectable.hpp"
 #include <set>
 

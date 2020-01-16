@@ -5,7 +5,7 @@
  *      Author: Madison
  */
 
-#include "SimulationObject.hpp"
+#include <simulation/SimulationObject.hpp>
 
 namespace flabs
 {

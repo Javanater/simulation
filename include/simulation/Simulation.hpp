@@ -37,7 +37,7 @@ namespace flabs
 			 * Creates a simulation with a reference to an algorithm.
 			 */
 			Simulation(Algorithm& algorithm, double iterationPeriod =
-			SIMULAITON_DEFAULT_ITERATION_PERIOD);
+			    SIMULAITON_DEFAULT_ITERATION_PERIOD);
 
 			virtual ~Simulation();
 

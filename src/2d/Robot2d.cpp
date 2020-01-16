@@ -5,7 +5,7 @@
  *      Author: Madison
  */
 
-#include "Robot2d.hpp"
+#include <simulation/2d/Robot2d.hpp>
 
 namespace flabs
 {

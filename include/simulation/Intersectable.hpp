@@ -8,7 +8,7 @@
 #ifndef SIMULATION_INTERSECTABLE_H_
 #define SIMULATION_INTERSECTABLE_H_
 
-#include <Math/geometry/GeometryCalculator.hpp>
+#include <math/geometry/GeometryCalculator.hpp>
 
 namespace flabs
 {

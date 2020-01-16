@@ -2,7 +2,7 @@
 // Created by Madison on 8/25/2016.
 //
 
-#include "Wheels.hpp"
+#include <simulation/2d/Wheels.hpp>
 #include <cmath>
 
 using namespace std;

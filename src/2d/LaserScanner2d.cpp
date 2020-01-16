@@ -2,8 +2,8 @@
 // Created by Madison on 8/30/2016.
 //
 
-#include "LaserScanner2d.hpp"
-#include <Math/geometry/Ray.hpp>
+#include <simulation/2d/LaserScanner2d.hpp>
+#include <math/geometry/Ray.hpp>
 
 using namespace std;
 

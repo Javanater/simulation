@@ -5,11 +5,11 @@
 #ifndef PROJECTS_LASERSCANNER2D_HPP
 #define PROJECTS_LASERSCANNER2D_HPP
 
-#include "Simulation/SimulationObject.hpp"
-#include "Simulation/Intersectee.hpp"
+#include <simulation/SimulationObject.hpp>
+#include <simulation/Intersectee.hpp>
 #include "Robot2d.hpp"
-#include <Math/geometry/Vector.h>
-#include <Math/geometry/LineSegment.hpp>
+#include <math/geometry/Vector.h>
+#include <math/geometry/LineSegment.hpp>
 
 namespace flabs
 {
