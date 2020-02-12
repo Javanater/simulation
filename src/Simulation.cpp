@@ -29,6 +29,8 @@ namespace flabs
 	{
 		secondsSinceStart = 0;
 		uint64_t lastTime = nanos();
+		this_thread::sleep_for(
+			chrono::nanoseconds((uint64_t) (iterationPeriod * 1000000000)));
 
 		algorithm.setup();
 

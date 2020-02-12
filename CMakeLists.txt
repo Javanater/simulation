@@ -1,4 +1,7 @@
 cmake_minimum_required(VERSION 3.5)
+
+include_guard(GLOBAL)
+
 project(Simulation)
 set(SOURCE_FILES
 	src/Intersectee.cpp
@@ -37,8 +40,8 @@ target_include_directories(${PROJECT_NAME}
 		${CMAKE_CURRENT_SOURCE_DIR}/src
 )
 
-add_subdirectory(../math ../math)
-add_subdirectory(../utilities ../utilities)
+add_subdirectory(../math math)
+add_subdirectory(../utilities utilities)
 
 target_link_libraries(${PROJECT_NAME} PUBLIC Math utilities)
 

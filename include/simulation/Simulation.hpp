@@ -29,7 +29,7 @@ namespace flabs
 			std::mutex mutexVariable;
 			std::condition_variable condition;
 			std::thread* algoritmThread;
-			volatile double secondsSinceStart;
+			double secondsSinceStart;
 
 		public:
 
